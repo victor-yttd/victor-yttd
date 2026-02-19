@@ -1,5 +1,5 @@
 
 
-<p style="text-align: center;"><strong>F</strong>ly, broken wings.</p>
+<p align="center"><strong>F</strong>ly, broken wings.</p>
 
 ---
