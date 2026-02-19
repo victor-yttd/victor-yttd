@@ -1,5 +1,5 @@
 🪽
 
 <p align="center">
-  <img src="https://imgur.com/Zaj8qdw">
+  <img src="https://imgur.com/a/Zaj8qdw">
 </p>
