@@ -1,5 +1,7 @@
-🪽
+
 
 <p align="center">
-  <img src="https://imgur.com/a/n6H2cWg#YuWpNZs">
+  <img src="https://count.getloli.com/get/@zZHorizonZz?theme=moebooru">
 </p>
+
+---
