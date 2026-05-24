@@ -27,7 +27,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=victor-yttd&icon=0&color=3)](https://visitcount.itsvg.in)
 
 #
 
