@@ -6,7 +6,7 @@
 
 <br><br> 💻 | Prob watching animes or playing smth!
 
-# ⛩️
+## ⛩️
 <div align="center">
   <table>
     <tr>
