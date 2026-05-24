@@ -1,5 +1,4 @@
 ### hello! 👋
-
 <br><br> 💻 | prob watching animes or playing something
 
 ## 🌐 Socials:
