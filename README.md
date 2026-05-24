@@ -5,6 +5,7 @@
 
 
 <br><br> 💻 | Prob watching animes or playing smth!
+<br><br> ⌛ | 17y
 
 ## ⛩️
 <div align="center">
