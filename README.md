@@ -8,13 +8,17 @@
 
 # ⛩️
 <div align="center">
-
-![](https://streak-stats.demolab.com/?user=victor-yttd&theme=chartreuse-dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=victor-yttd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=victor-yttd&theme=chartreuse-dark&hide_border=false" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victor-yttd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ## 🌐 社交
 
 <div align="center">
