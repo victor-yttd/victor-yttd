@@ -1,6 +1,6 @@
-## hello! 👋
+# hello! 👋
 
-<br><br> 💻 | prob watching animes or playing something
+<br><br> 💻 | prob watching animes or playing smth
 
 # 
 ![](https://github-readme-stats.shion.dev/api?username=victor-yttd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
