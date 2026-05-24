@@ -29,6 +29,12 @@
 
 </div>
 
+<div align="center">
+  <a href="URL"><img src="BADGE_LINK" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="URL"><img src="BADGE_LINK" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="URL"><img src="BADGE_LINK" /></a>
+</div>
+
 
 ### 🖥️ 言語
 
