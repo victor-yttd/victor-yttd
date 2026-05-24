@@ -4,9 +4,9 @@
 </p>
 
 
-<br><br> 💻 | prob watching animes or playing smth
+<br><br> 💻 | Prob watching animes or playing smth!
 
-# ⛩️ 状態
+# ⛩️
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=victor-yttd&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
